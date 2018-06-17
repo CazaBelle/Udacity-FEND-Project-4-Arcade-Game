@@ -1,6 +1,17 @@
-frontend-nanodegree-arcade-game
+#H1 Project # 4 Classic Arcade Game 
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+#H2 Table of Contents
+=======
+1. How to play
+2. Rules
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+#H3 How to Play 
+1. To play the game download it and run the `index.html` file
+2. Use the four arrow keys `up`, `down`, `left` and `right` to move across the board
+
+#H3 Rules
+1. The aim of the game is to move the character safely from the grass to the water 
+2. Each time your character comes in contact with an enemy/bug you die and the game restarts
+3. You earn points each time your character moves successfully across the board
+ 
