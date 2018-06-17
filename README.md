@@ -1,8 +1,7 @@
 # Project # 4 Classic Arcade Game 
-===============================
 
 ## Table of Contents
-=======
+
 1. How to play
 2. Rules
 
