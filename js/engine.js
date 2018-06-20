@@ -114,7 +114,7 @@ var Engine = (function(global) {
         var collision = false;
         allEnemies.forEach(function(enemy) {
             if(enemy.row == player.row){
-                if(enemy.x + 83 > player.x && enemy.x < player.x + 83){
+                if(enemy.x + 60 > player.x && enemy.x < player.x + 60){
                     collision = true;
                 }
             }
