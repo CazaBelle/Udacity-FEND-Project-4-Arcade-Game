@@ -7,7 +7,7 @@
 
 ### How to Play 
 1. To play the game locally download it and run the `index.html` file
-2. To play on a hosted version of the game [Click Here!](https://cazabelle.github.io/Udacity-FEND-Project-4-Arcade-Game/.)
+2. To play LIVE [Click Here!](https://cazabelle.github.io/Udacity-FEND-Project-4-Arcade-Game/.)
 3. Use the four arrow keys `up`, `down`, `left` and `right` to move across the board
 
 ### Rules
